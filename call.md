@@ -16,24 +16,31 @@ The seminar will be divided into two parts: (i) The first two days of the semina
 
 GI-Dagstuhl Seminars are sponsored by the Gesellschaft für Informatik e.V. Accommodation and full board is 50 EUR per person and day (250 EUR total), excluding travel to Dagstuhl.
 
-Applications to the seminar will be collected via Easychair
-([https://easychair.org/conferences/?conf=vssp2018](https://easychair.org/conferences/?conf=vssp2018))
+Reseac proposals for the workshop will be collected via [Google Form](https://forms.gle/orhVNL6iqUkANxeK6)
 
-Applications are evaluated by the organizers of the seminar. To apply, please upload a single PDF file containing:
+Applications are evaluated by the organisers of the worksop. To submit your research proposal, please fill the above google form. The form asks the following questions:
 
-1. A short (max. 1 page) cover letter addressing why you think you will
-    benefit from participation in the seminar and how your
-    participation will benefit the seminar. Specifically address prior
-    work relevant to the topic of the seminars in addition to plans for
-    future research.
+1. The university or organisation at which you are currently enrolled/working.
 
-2. A maximum of 10 references of previous relevant projects, publications and experiences.
+2. Context and motivation that drives your research.
 
-3. A current academic CV including current position and affiliation, a
-    full publication list, and optionally a link to an online profile
-    (e.g., DBLP, Google Scholar).
+3. Research objectives/goals/questions.
 
-Please note that GI Dagstuhl seminars specifically cater to young researchers (later-stage graduate students, postdoctoral researchers and assistant professors). Hence, we limited the PhD date to 2010 or later. Application selection will favor young researchers. If you are in doubt whether you still qualify, please contact the organizers per email prior to  applying.
+4. Background/literature review of key works that frame your research.
+
+5. Hypothesis/thesis and/or problem statement.
+
+6. Your research approach and methods, including relevant rationale.
+
+7. Results to date and their validity.
+
+8. Dissertation status and next steps.
+
+9. Current and expected contributions.
+
+10. Expected benefits of participation for both yourself and the other workshop participants (i.e., what will you contribute as well as gain).
+
+Please note that the workshop specifically caters to young researchers (pre-Ph.D., current Ph.D. and post-Ph.D.). Hence, in the form some of the questions will be optional for the pre-Ph.D. participants as we don not expect them to have a well formulated research plan.
 
 The deadline for proposal submission is October 10, 2019. Notifications will be sent out on or before October 20, 2019.
 
