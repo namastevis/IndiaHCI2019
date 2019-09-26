@@ -27,13 +27,13 @@ India HCI '19 will take place from November 1 - 3 (Fri - Sun), 2019, in Hyderaba
 
 Participant 1 (University/Organisation, City) <br/>
 Participant 2 (University/Organisation, City) <br/>
-Participant 3 (University/Organisation, City)  
-Participant 4 (University/Organisation, City)  
-Participant 5 (University/Organisation, City)  
-Participant 6 (University/Organisation, City)  
-Participant 7 (University/Organisation, City)  
-Participant 8 (University/Organisation, City)  
-Participant 9 (University/Organisation, City)  
+Participant 3 (University/Organisation, City) <br/>
+Participant 4 (University/Organisation, City) <br/>
+Participant 5 (University/Organisation, City) <br/>
+Participant 6 (University/Organisation, City) <br/>
+Participant 7 (University/Organisation, City) <br/>
+Participant 8 (University/Organisation, City) <br/>
+Participant 9 (University/Organisation, City) <br/>
 Participant 10 (University/Organisation, City)
 
 # Program
