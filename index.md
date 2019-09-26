@@ -6,7 +6,7 @@ The main goal of the VSSP '18 is to bring together young researchers (PhD studen
 - The seminar shall foster interaction among the participants and establish collaborations between the researchers towards joint research projects.
 
 <p style="text-align: center; widthL: 100%;">
-    <img src="img/hyderabad.jpeg" height="112" />
+    <img src="img/hyderabad.jpg" height="112" />
 </p>
 
 India HCI '19 will take place from November 1 - 3 (Fri - Sun), 2019 in Hyderabad, India.
