@@ -4,6 +4,7 @@ The workshop has the following objectives:
 - The workshop shall provide a joint forum for participants coming from different, mostly disconnected research backgrounds.
 - The participants shall learn about the latest developments in their own as well as adjacent HCI research areas.
 - The workshop shall foster interaction among the participants and establish collaborations between the researchers for future research work.
+- After the workshop, provide a set of publicly available key readings for thinking about discussed questions and a set of position papers, updated based on the workshop, that explain participants’ thinking about these questions.
 
 <p style="text-align: center; width: 100%;">
     <img src="img/hyderabad.jpg"/>
