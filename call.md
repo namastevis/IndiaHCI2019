@@ -39,5 +39,5 @@ The deadline for proposal submission is October 10, 2019. Notifications will be 
 
 The organisers,
 
-- [Amit Jena](https://www.vis.wiwi.uni-due.de/en/team/fabian-beck/) (IITB-Monash Research Academy - Mumbai, India)
-- [Shimmila Bhowmick](http://bergel.eu) (Indian Institute of Technology – Guwahati, India)
+- [Amit Jena](https://amitjenaiitbm.github.io/amitjena/) (IITB-Monash Research Academy - Mumbai, India)
+- [Shimmila Bhowmick](http://embeddedinteractions.com/people.html) (Indian Institute of Technology – Guwahati, India)
