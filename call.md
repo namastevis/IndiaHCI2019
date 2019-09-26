@@ -1,6 +1,6 @@
 # Call for Applications
 
-## [Workshop on "What Indian HCI Doctoral researchers study?"](https://)
+## [Workshop on "What Indian HCI Doctoral researchers study?"](https://amitjenaiitbm.github.io/IndiaHCI2019/)
 
 November 1-3, 2019
 ISB Hyderabad, Hyderabad, India
