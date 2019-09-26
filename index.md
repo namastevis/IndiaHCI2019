@@ -5,7 +5,7 @@ The main goal of the VSSP '18 is to bring together young researchers (PhD studen
 - The participants shall learn about the latest developments in their own as well as adjacent research areas.
 - The seminar shall foster interaction among the participants and establish collaborations between the researchers towards joint research projects.
 
-<p style="text-align: center; width: 100%; height: 150px">
+<p style="text-align: center; width: 100%;">
     <img src="img/hyderabad.jpg"/>
 </p>
 
