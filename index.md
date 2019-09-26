@@ -7,7 +7,7 @@ The main goal of the VSSP '18 is to bring together young researchers (PhD studen
 
 ![Hyderabad](img/hyderabad.png)
 
-India HCI '19 will take place from November 1 - 3 (Fri - Sun), 2019, in Hyderabad, India.
+India HCI '19 will take place from November 1 - 3 (Fri - Sun), 2019 in Hyderabad, India.
 
 <p style="text-align: center; widthL: 100%;">
   <a href="https://www.indiahci.org/2019/">
