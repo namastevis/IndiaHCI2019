@@ -1,2 +1,7 @@
 # IndiaHCI2019
- Workshop 7: What Indian HCI Doctoral researchers study?
+Website of the Workshop: What Indian HCI Doctoral researchers study? at India HCI 2019, November 1-3 2019 at Hyderabad, India.
+
+Amit Jena: IITB-Monash Research Academy
+Shimmila Bhowmick: Indian Institute of Technology Guwahati
+
+The website is accessible [online]().
