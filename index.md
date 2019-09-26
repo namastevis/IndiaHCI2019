@@ -1,9 +1,9 @@
-This worksop at [India HCI 2019](https://www.indiahci.org/2019/) that addresses the problem of visualizing performance-related data of systems and the software that they run. Due to the scale of performance-related data and the open-ended nature of analyzing it, visualization is often the only feasible way to comprehend, improve, and debug the performance behavior of systems. The rise of cloud and big data systems, and the rapidly growing scale of the performance-related data that they generate, have led to an increased need for visualization of such data. However, the research communities behind data visualization, performance engineering, and high-performance computing are largely disjunct. The goal of this seminar is to bring together young researchers from these research areas to identify cross-community collaboration and to set the path for long-lasting collaborations towards rich and effective visualizations of performance-related data.
+This worksop at [India HCI 2019](https://www.indiahci.org/2019/) invites participants those who have done PhD in HCI in the past, those who are doing it currently, and those who would like to start doing it in near future. The main goal of this workshop is to bring together Indian HCI PhD students to meet and discuss ideas. Currently with the exception of INTERACT 2017 doctoral consortium, there is no avenues for HCI students to meet, discuss and get feedback on their work.
 
-The main goal of the VSSP '18 is to bring together young researchers (PhD students, postdocs, and assistant professors) in the areas of (i) performance engineers, (ii) software visualization, and (iii) high-performance computing. The seminar has the following objectives:
-- The seminar shall provide a joint forum for participants coming from different, mostly disconnected research communities.
-- The participants shall learn about the latest developments in their own as well as adjacent research areas.
-- The seminar shall foster interaction among the participants and establish collaborations between the researchers towards joint research projects.
+The workshop has the following objectives:
+- The workshop shall provide a joint forum for participants coming from different, mostly disconnected research backgrounds.
+- The participants shall learn about the latest developments in their own as well as adjacent HCI research areas.
+- The workshop shall foster interaction among the participants and establish collaborations between the researchers for future research work.
 
 <p style="text-align: center; width: 100%;">
     <img src="img/hyderabad.jpg"/>
