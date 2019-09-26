@@ -7,7 +7,7 @@ The main goal of the VSSP '18 is to bring together young researchers (PhD studen
 
 ![German countryside in early summer](img/countryside.png)
 
-India HCI '19 will take place from November 1 until November 3 (Fri - Sun), 2019, in Hyderabad, India.
+India HCI '19 will take place from November 1 - 3 (Fri - Sun), 2019, in Hyderabad, India.
 
 <p style="text-align: center; widthL: 100%;">
   <a href="https://www.indiahci.org/2019/">
@@ -26,14 +26,14 @@ India HCI '19 will take place from November 1 until November 3 (Fri - Sun), 2019
 # Participants
 
 Participant 1 (University/Organisation, City)  
-Participant 2 (University/Organisation, City)
-Participant 3 (University/Organisation, City)
-Participant 4 (University/Organisation, City)
-Participant 5 (University/Organisation, City)
-Participant 6 (University/Organisation, City)
-Participant 7 (University/Organisation, City)
-Participant 8 (University/Organisation, City)
-Participant 9 (University/Organisation, City)
+Participant 2 (University/Organisation, City)  
+Participant 3 (University/Organisation, City)  
+Participant 4 (University/Organisation, City)  
+Participant 5 (University/Organisation, City)  
+Participant 6 (University/Organisation, City)  
+Participant 7 (University/Organisation, City)  
+Participant 8 (University/Organisation, City)  
+Participant 9 (University/Organisation, City)  
 Participant 10 (University/Organisation, City)
 
 # Program
