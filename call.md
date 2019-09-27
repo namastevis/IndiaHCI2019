@@ -48,4 +48,6 @@ The deadline for proposal submission is <strong>October 10, 2019</strong>. Notif
 The organisers,
 
 - [Amit Jena](https://amitjenaiitbm.github.io/amitjena/) (IITB-Monash Research Academy - Mumbai, India)
+  - Email: amit.jena@monash.edu & Mobile: +91-7540873626
 - [Shimmila Bhowmick](http://embeddedinteractions.com/people.html) (Indian Institute of Technology – Guwahati, India)
+  - Email: shimmila.bhowmick@gmail.com & Mobile: +91-8404075322
