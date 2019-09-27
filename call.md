@@ -6,7 +6,7 @@ November 1 (Friday), 2019.
 ISB Hyderabad, Hyderabad, India
 
 
-Research proposal submission deadline: October 10, 2019
+Research proposal submission deadline: <strong>October 10, 2019</strong>
 
 Participants those who have done Ph.D. in HCI in the past, those who are doing it currently, and those who would like to start doing it in near future, are invited to apply for participation in the India HCI 2019 workshop on “What Indian HCI Doctoral researchers study?”. The workshop will take place on November 1 (Fri), 2019, in India HCI 2019 at Hyderabad, India. The participants need to register for the workshop at the India HCI 2019 [registration portal](https://www.indiahci.org/indiahci_2019/register/). The participants also need to submit a research proposal (link is provided below).
 
