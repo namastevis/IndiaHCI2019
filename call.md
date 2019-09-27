@@ -8,7 +8,7 @@ ISB Hyderabad, Hyderabad, India
 
 Research proposal submission deadline: <strong>October 10, 2019</strong>
 
-Participants those who have done Ph.D. in HCI in the past, those who are doing it currently, and those who would like to start doing it in near future, are invited to apply for participation in the India HCI 2019 workshop on “What Indian HCI Doctoral researchers study?”. The workshop will take place on November 1 (Fri), 2019, in India HCI 2019 at Hyderabad, India. The participants need to register for the workshop at the India HCI 2019 <strong><u>[registration portal](https://www.indiahci.org/indiahci_2019/register/)</u></strong>. The participants also need to submit a research proposal (link is provided below) for the workshop.
+Participants those who have done Ph.D. in HCI in the past, those who are doing it currently, and those who would like to start doing it in near future, are invited to apply for participation in the India HCI 2019 workshop on “What Indian HCI Doctoral researchers study?”. The workshop will take place on November 1 (Fri), 2019, in India HCI 2019 at Hyderabad, India. The participants need to register for the workshop at the India HCI 2019 <strong>[registration portal](https://www.indiahci.org/indiahci_2019/register/)</strong>. The participants also need to submit a research proposal (link is provided below) for the workshop.
 
 The workshop aims to bring together Indian doctoral researchers: those who have done Ph.D. in HCI in the past, those who are doing it currently, and those who would like to begin their Ph.D. process in near future. The intended outcome is to have a personally inspiring discussion among participants and get feedback on their research work from experts. The workshop will provide an avenue for Indian HCI Ph.D. students to come together as a community and discuss ideas and get feedback. Each participant will present their current research efforts, and exchange experience and expertise, to discuss research challenges, and to develop ideas for future work.
 
@@ -16,7 +16,7 @@ The workshop aims to bring together Indian doctoral researchers: those who have 
 
 <strong>After the conference:</strong> We aim to contribute to the field two sets of documents that may help both aspiring Ph.D. students and continuing doctoral researchers think about what to study. They are (a) a set of publicly available key readings for thinking about these questions and (b) a set of position papers, updated based on the workshop, that explain participants’ thinking about these questions.
 
-Research proposals for the workshop will be collected via <strong><u>[Google Form](https://forms.gle/orhVNL6iqUkANxeK6)</u></strong>.
+Research proposals for the workshop will be collected via <strong>[Google Form](https://forms.gle/orhVNL6iqUkANxeK6)</strong>.
 
 <strong>
   To submit your research proposal, please fill the above google form. The form asks the following questions:
