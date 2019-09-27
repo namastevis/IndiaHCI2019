@@ -1,5 +1,7 @@
 This workshop at [India HCI 2019](https://www.indiahci.org/2019/) invites participants those who have done Ph.D. in HCI in the past, those who are doing it currently, and those who would like to start doing it in the near future. The main goal of this workshop is to bring together Indian HCI Ph.D. students to meet and discuss ideas. Currently, with the exception of INTERACT 2017 doctoral consortium, there are less avenues for HCI students to meet, discuss and get feedback on their work.
 
+The key purpose is to have an informal and interactive discussion about each candidates’ ongoing research, with the intention to sharpen it. We are looking for a diverse group of people who are interested in presenting their work/research at the workshop during the conference. This workshop aims to provide useful guidance for completion of the research and the initiation of a research career in a friendly and constructive atmosphere.
+
 The workshop has the following objectives:
 - The workshop shall provide a joint forum for participants coming from different, mostly disconnected research backgrounds.
 - The participants shall learn about the latest developments in their own as well as adjacent HCI research areas.
