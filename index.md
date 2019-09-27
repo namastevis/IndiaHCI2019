@@ -24,6 +24,7 @@ The deadline for Early Bird <strong>[Registration](https://www.indiahci.org/indi
 
 # Organisers
 - [Amit Jena](https://amitjenaiitbm.github.io/amitjena/) (IITB-Monash Research Academy - Mumbai, India)
+  - Email: amit.jena@monash.edu & Mobile: +91-7540873626
 - [Shimmila Bhowmick](http://embeddedinteractions.com/people.html) (Indian Institute of Technology – Guwahati, India)
 
 # Call for applications
