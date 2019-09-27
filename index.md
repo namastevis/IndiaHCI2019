@@ -62,9 +62,15 @@ Tentative program:
 	<td>11:15</td><td>Icebreaker</td>
 </tr>
 <tr>
+	<td>11:30</td><td>Panel Discussion</td>
+</tr>
+<tr>
 	<td>12:30</td><td>Lunch</td>
 </tr>
 <tr>
 	<td>13:30</td><td>Participant Presentations</td>
+</tr>
+<tr>
+	<td>15:30</td><td>Breakout sessions</td>
 </tr>
 </table>
