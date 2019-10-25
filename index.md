@@ -20,8 +20,6 @@ India HCI '19 will take place from November 1 - 3 (Fri - Sun), 2019 in Hyderabad
   </a>
 </p>
 
-The deadline for Early Bird <strong>[Registration](https://www.indiahci.org/indiahci_2019/register/)</strong> of the India HCI 2019 conference is <strong>8th October 2019</strong>.
-
 # Organisers
 - [Amit Jena](https://amitjenaiitbm.github.io/amitjena/) (IITB-Monash Research Academy - Mumbai, India)
   - Email: amit.jena@monash.edu & Mobile: +91-7540873626
@@ -34,7 +32,7 @@ The deadline for Early Bird <strong>[Registration](https://www.indiahci.org/indi
 
 # Participants
 
-To be updated after October 20th.
+To be updated on October 31st.
 
 <!-- Participant 1 (University/Organisation, City) <br/>
 Participant 2 (University/Organisation, City) <br/>
