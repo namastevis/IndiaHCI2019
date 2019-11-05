@@ -57,18 +57,18 @@ Nagraj Emmadi (Wipro Limited, Hyderabad, India) <br/>
 	<td width="50">11:00</td><td width="500">Intro & overview</td>
 </tr>
 <tr>
-	<td>11:15</td><td>Icebreaker</td>
+	<td>11:15</td><td>Presentation by Amit Jena</td>
 </tr>
 <tr>
-	<td>11:30</td><td>Panel Discussion</td>
+	<td>11:45</td><td>Presentation by Pranjal Pratim Borah</td>
 </tr>
 <tr>
-	<td>12:30</td><td>Lunch</td>
+	<td>12:15</td><td>Lunch</td>
 </tr>
 <tr>
-	<td>13:30</td><td>Participant Presentations</td>
+	<td>15:00</td><td>Presentation by Vidya Sarangapani</td>
 </tr>
 <tr>
-	<td>15:30</td><td>Breakout sessions</td>
+	<td>15:30</td><td>Open discussion on Ph.D. research</td>
 </tr>
 </table>
