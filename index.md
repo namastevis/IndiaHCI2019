@@ -32,6 +32,10 @@ India HCI '19 will take place from November 1 - 3 (Fri - Sun), 2019 in Hyderabad
 
 # Participants
 
+<p style="text-align: center; width: 100%;">
+    <img src="img/participants.jpg"/>
+</p>
+
 Vidya Sarangapani (Open Lab, England) <br/>
 Pranjal Protim Borah (EI LAB, IIT Guwahati, India) <br/>
 Asad Ali Junaid (Adobe Inc., Bengaluru, India) <br/>
@@ -42,8 +46,6 @@ Nikhil Prakash (R.V. College of Engineering, Bangalore, India) <br/>
 Nishita Nirmal (IDC School of Design, IIT Bombay, Mumbai, India) <br/>
 
 # Program
-
-Tentative program:
 
 <table>
 <tr>
