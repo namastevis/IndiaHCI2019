@@ -28,7 +28,7 @@ India HCI '19 will take place from November 1 - 3 (Fri - Sun), 2019 in Hyderabad
 
 # Call for applications
 
-*Our call for applications is now [open](call.md)!*
+*Our call for applications is now [closed](call.md)!*
 
 # Participants
 
