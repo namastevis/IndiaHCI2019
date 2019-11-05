@@ -32,8 +32,6 @@ India HCI '19 will take place from November 1 - 3 (Fri - Sun), 2019 in Hyderabad
 
 # Participants
 
-To be updated on October 31st.
-
 Vidya Sarangapani (Open Lab, England) <br/>
 Pranjal Protim Borah (EI LAB, IIT Guwahati, India) <br/>
 Asad Ali Junaid (Adobe Inc., Bengaluru, India) <br/>
