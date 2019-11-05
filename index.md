@@ -34,16 +34,14 @@ India HCI '19 will take place from November 1 - 3 (Fri - Sun), 2019 in Hyderabad
 
 To be updated on October 31st.
 
-<!-- Participant 1 (University/Organisation, City) <br/>
-Participant 2 (University/Organisation, City) <br/>
-Participant 3 (University/Organisation, City) <br/>
-Participant 4 (University/Organisation, City) <br/>
-Participant 5 (University/Organisation, City) <br/>
-Participant 6 (University/Organisation, City) <br/>
-Participant 7 (University/Organisation, City) <br/>
-Participant 8 (University/Organisation, City) <br/>
-Participant 9 (University/Organisation, City) <br/>
-Participant 10 (University/Organisation, City) -->
+Vidya Sarangapani (Open Lab, England) <br/>
+Pranjal Protim Borah (EI LAB, IIT Guwahati, India) <br/>
+Asad Ali Junaid (Adobe Inc., Bengaluru, India) <br/>
+Nagraj Emmadi (Wipro Limited, Hyderabad, India) <br/>
+Chandni Murmu (Gramener, Hyderabad, India) <br/>
+Ankita Diwan (Shipsy, Gurgaon, India) <br/>
+Nikhil Prakash (R.V. College of Engineering, Bangalore, India) <br/>
+Nishita Nirmal (IDC School of Design, IIT Bombay, Mumbai, India) <br/>
 
 # Program
 
