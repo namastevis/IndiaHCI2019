@@ -12,7 +12,7 @@ Participants those who have done Ph.D. in HCI in the past, those who are doing i
 
 The workshop aims to bring together Indian doctoral researchers: those who have done Ph.D. in HCI in the past, those who are doing it currently, and those who would like to begin their Ph.D. process in near future. The intended outcome is to have a personally inspiring discussion among participants and get feedback on their research work from experts. The workshop will provide an avenue for Indian HCI Ph.D. students to come together as a community and discuss ideas and get feedback. Each participant will present their current research efforts, and exchange experience and expertise, to discuss research challenges, and to develop ideas for future work.
 
-<strong>At the conference:</strong> Accepted submissions will be presented at the workshop and get feedback from experts and other participants. The list of expert panel will be updated soon.
+<strong>At the conference:</strong> Accepted submissions will be presented at the workshop and get feedback from experts and other participants.
 
 <strong>After the conference:</strong> We aim to contribute to the field two sets of documents that may help both aspiring Ph.D. students and continuing doctoral researchers think about what to study. They are (a) a set of publicly available key readings for thinking about these questions and (b) a set of position papers, updated based on the workshop, that explain participants’ thinking about these questions.
 
